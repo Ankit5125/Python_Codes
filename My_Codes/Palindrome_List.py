@@ -5,7 +5,7 @@ my_list = []
 for i in range(length):
     while True:
         try:
-            my_list.append(int(input(f"Element {i+1} = ")))
+            my_list.append(input(f"Element {i+1} = "))
             break
         except ValueError:
             print("Invalid input. Please enter a valid integer.")
