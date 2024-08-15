@@ -7,3 +7,4 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [2. Infinite Calculator](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Infinite_Calc.py)
 
+[3. Palindrom List](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Palindrome_List.py)
