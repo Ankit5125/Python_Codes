@@ -3,13 +3,9 @@ length = int(input("Enter Length of List :"))
 my_list = []
 
 for i in range(length):
-    while True:
-        try:
-            my_list.append(input(f"Element {i+1} = "))
-            break
-        except ValueError:
-            print("Invalid input. Please enter a valid integer.")
-
+    my_list.append(input("Element = "))
+            
+        
 print("Your List :", my_list)
 
 is_palindrom = True
