@@ -14,3 +14,5 @@ This Repository Includes all my Pyhton Codes and Projects
 [5. Print Sum](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print_Sum.py)
 
 [6. Print Product](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print_Product.py)
+
+[7. Print Table](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print_Table.py)
