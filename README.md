@@ -16,3 +16,5 @@ This Repository Includes all my Pyhton Codes and Projects
 [6. Print Product](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print_Product.py)
 
 [7. Print Table](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print_Table.py)
+
+[8. Print SUM & AVARAGE](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Sum%20%26%20Avarage.py)
