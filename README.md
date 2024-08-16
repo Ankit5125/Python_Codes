@@ -18,3 +18,7 @@ This Repository Includes all my Pyhton Codes and Projects
 [7. Print Table](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print_Table.py)
 
 [8. Print SUM & AVARAGE](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Sum%20%26%20Avarage.py)
+
+[9. Print Area](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Area%20%26%20Perimeter.py)
+
+[10. Swap Two Numbers](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Swap%20Two%20Numbers.py)
