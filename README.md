@@ -24,3 +24,5 @@ This Repository Includes all my Pyhton Codes and Projects
 [10. Swap Two Numbers](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Swap%20Two%20Numbers.py)
 
 [11. Count Letters,Space,Numbers](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Count%20Letter%2CSpace%2CNumber%20in%20List.py)
+
+[12. Print All Possible Unique Numbers](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/All%20Possible%20Unique%20Nums.py)
