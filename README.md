@@ -28,3 +28,5 @@ This Repository Includes all my Pyhton Codes and Projects
 [12. Print All Possible Unique Numbers](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/All%20Possible%20Unique%20Nums.py)
 
 [13. n + nn + nnn](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print%20n+nn+nnn.py)
+
+[14. Find File Extension](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/File_extension.py)
