@@ -32,3 +32,7 @@ This Repository Includes all my Pyhton Codes and Projects
 [14. Find File Extension](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/File_extension.py)
 
 [15. Count in List](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/count_in_list.py)
+
+[16. Unique @ Pattern](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Unique_Pattern.py)
+
+[17. is Character Vowel](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/is_Vowel.py)
