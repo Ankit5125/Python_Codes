@@ -36,3 +36,5 @@ This Repository Includes all my Pyhton Codes and Projects
 [16. Unique @ Pattern](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Unique_Pattern.py)
 
 [17. is Character Vowel](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/is_Vowel.py)
+
+[18. Element not Present in Another List](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Unique_in_List.py)
