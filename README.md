@@ -43,5 +43,26 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [20. Put 'ls' in Front](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Throw_in_Front.py)
 
+[21. Names Start with 'S'](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print%20Name%20Start%20with%20'S'.py)
+
+[22. Favourite Sub of Friend (Dictionary)](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Friends%20and%20their%20Favourite%20subject.py)
+
+[23. Valid Comment](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Valid%20Comment.py)
+
+[24.Is Student Pass Or Fail](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Pass%20or%20Fail.py)
+
+[25.
+
+
+# Patterns :
+
+[1. Triangle](https://github.com/Ankit5125/Python_Codes/blob/main/Patterns/Pattern%201.py)
+
+[2. Side Triangle](https://github.com/Ankit5125/Python_Codes/blob/main/Patterns/Pattern%202.py)
+
+[3. Hollow From Middle](https://github.com/Ankit5125/Python_Codes/blob/main/Patterns/Pattern%203.py)
+
+
+
 
 # Projects :
