@@ -61,7 +61,9 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [29. Reversed Table](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Reversed%20Table.py)
 
-[30. ]
+[30. Max in 3 using Function](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Max%20in%203%20(Function).py)
+
+[31. Celcius to Farenheat](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/celcius%20to%20Fahrenheit.py)
 
 
 # Patterns :
