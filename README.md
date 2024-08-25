@@ -59,7 +59,9 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [28. Valid Username](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Valid%20Username.py)
 
-[29..]
+[29. Reversed Table](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Reversed%20Table.py)
+
+[30. ]
 
 
 # Patterns :
