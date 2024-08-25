@@ -65,6 +65,10 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [31. Celcius to Farenheat](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/celcius%20to%20Fahrenheit.py)
 
+[32. 
+
+
+
 
 # Patterns :
 
@@ -74,7 +78,7 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [3. Hollow From Middle](https://github.com/Ankit5125/Python_Codes/blob/main/Patterns/Pattern%203.py)
 
-
+[4. Upper Triangle](https://github.com/Ankit5125/Python_Codes/blob/main/Patterns/Pattern%204.py)
 
 
 # Projects :
