@@ -51,7 +51,15 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [24.Is Student Pass Or Fail](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Pass%20or%20Fail.py)
 
-[25.
+[25.Prime Number](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Prime%20Number.py)
+
+[26. Store Movies Names in English and Hindi](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Movies%20Names%20in%20English%2BHindi.py)
+
+[27 Sum of N Natural Numbers](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Sum%20of%20Natural%20Numbers.py)
+
+[28. Valid Username](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Valid%20Username.py)
+
+[29..]
 
 
 # Patterns :
