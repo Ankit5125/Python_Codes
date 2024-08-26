@@ -18,7 +18,12 @@ def game():
 
     if score > int(HScore) :
         print("Congratulations !! You Got High Score")
-        HScore.write(score)
+        # move cursor to the starting index (bcz if you dont do this cursor will be at last index)
+        f.seek(0)
+        # clear the file (deletes entire file and create new with same name)
+        f.truncate()
+        # write new high score in empty file
+        f.write(str(score))
 
     else :
         print("Sorry Better Luck Next Time....")
