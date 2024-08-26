@@ -10,3 +10,4 @@ for i in range(1,21):
         f.write(f"{i} * {j} = {i * j}\n")
 
     print(f"Table of {i} Created Successfully...")
+    f.close()
