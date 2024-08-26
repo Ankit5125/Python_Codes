@@ -5,10 +5,25 @@ options = {1: "Rock",2 : "Paper",3 : "Scissor"}
 
 def winner(comp,user):
     if options[comp] == options[user] :
-        print("\nDraw\n")
+        print("\nDraw")
         
-    #elif options[comp] ==     
+    elif options[comp] == options[1] : 
+        if options[user] == options[2] :
+            print("\nYou Wins")
+        else:
+            print("\nComputer Wins")
 
+    elif options[comp] == options[2] :
+        if options[user] == options[1] :
+            print("\nComputer Wins")
+        else :
+            print("\nYou Wins")
+
+    else :
+        if options[user] == options[1] :
+            print("\nYou Wins")
+        else :
+            print("\nComputer Wins")
     
 while True :
     print("Enter Your Choice : ")
@@ -23,7 +38,7 @@ while True :
         
         print(f"Computer Choice = {options[comp]}\nYour Choice = {options[you]}")
         
-        print(winner(comp,you))
+        winner(comp,you)
         print("-" * 40)
         
     elif go_ahead == 0:
