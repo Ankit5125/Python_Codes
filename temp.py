@@ -6,8 +6,8 @@ class nums():
         self.num1 = num1
         self.num2 = num2
 
-    def check():
-        if num1 is int and num2 is int:
+    def check(self):
+        if isinstance(num1,int) and isinstance(num2,int):
             return True
         else :
             return False
