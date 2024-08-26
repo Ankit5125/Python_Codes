@@ -3,7 +3,6 @@ import math
 num1 = int(input("Enter Number 1 : "))
 num2 = int(input("Enter Number 2 : "))
 
-# Method 1 :
 max = 1 
 
 for i in range(1,min(num1,num2)+1):
@@ -11,7 +10,3 @@ for i in range(1,min(num1,num2)+1):
         max = i
 
 print(max)
-
-# Method 2 :
-
-print(math.gcd(num1,num2))
