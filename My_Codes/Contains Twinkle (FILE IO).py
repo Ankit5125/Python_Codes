@@ -4,7 +4,7 @@ which have poems written...
 check if file contains word 'twinkle'
 '''
 
-f = open("poems.txt")
+f = open("poems.txt","r")
 
 lines = f.readlines()
 
