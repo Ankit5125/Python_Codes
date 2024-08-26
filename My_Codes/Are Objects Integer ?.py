@@ -1,3 +1,8 @@
+'''
+take 2 objects from the user 
+and check if both are integer or not...
+'''
+
 class nums():
     num1 = 0
     num2 = 0
