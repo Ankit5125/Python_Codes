@@ -75,7 +75,7 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [36. Greatest Common Devisior](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Greatest%20Common%20Devisior.py)
 
-
+[37. Are Objects Int ?](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Are%20Objects%20Integer%20%3F.py)
 
 
 # Patterns :
