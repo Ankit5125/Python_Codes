@@ -1,0 +1,21 @@
+this is the example of
+appending lines in file using 
+file io in python
+here are added lines : 
+
+
+hey
+hlo
+hi
+
+l1
+l2
+l3
+l4
+l5
+
+he
+he
+he
+he
+he
