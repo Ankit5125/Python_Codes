@@ -99,6 +99,15 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [49. Square Cube Sqr Root](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Square%20Cube%20and%20Sqr%20Root%20(OOPS).py)
 
+[50. Print 2d Vector from 3D Vector Class(OOPS)](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Vectors%203D%20-%3E%202D.py)
+
+[51. Dog Barking](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Dog%20Barking%20(OOPS).py)
+
+[52. Sum / Multiplication of Complex Number](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Sum%20%26%20Multi.%20Complex%20Number.py)
+
+[53. Sum / Multiplication of 2 Vectors](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Sum%20%26%20Multi%20of%202%20Vectors%20py)
+
+
 # Patterns :
 
 [1. Triangle](https://github.com/Ankit5125/Python_Codes/blob/main/Patterns/Pattern%201.py)
