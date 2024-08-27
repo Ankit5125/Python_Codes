@@ -85,6 +85,8 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [41. Middle Point Of Line](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Mid%20Point%20of%20a%20Line.py)
 
+[42. Number is Less then All Number in List](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Number%20Smaller%20Than%20all%20nums.py)
+
 
 # Patterns :
 
