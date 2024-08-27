@@ -77,6 +77,8 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [37. Are Objects Int ?](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Are%20Objects%20Integer%20%3F.py)
 
+[38. Your Details](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Your%20Details.py)
+
 
 # Patterns :
 
