@@ -1,3 +1,8 @@
+'''
+you have to count simple intrest and intrest 
+by getting info from user
+'''
+
 p = int(input("Enter Initial Amount : "))
 r = float(input("Enter Rate "))
 n = int(input("Enter Total Year : "))
