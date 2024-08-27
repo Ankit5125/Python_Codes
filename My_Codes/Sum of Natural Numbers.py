@@ -16,3 +16,10 @@ Method 2 :
 '''
 
 print(sum(range(num+1)))
+
+
+'''
+Method 3 : 
+'''
+
+print(num * (num + 1) / 2)
