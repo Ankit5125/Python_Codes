@@ -97,6 +97,8 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [48. Save Data Of Microsoft Employee in Class (OOPS)](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Save%20Data%20of%20Two%20Employees%20in%20Class%20(OOPS).py)
 
+[49. Square Cube Sqr Root](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Square%20Cube%20and%20Sqr%20Root%20(OOPS).py)
+
 # Patterns :
 
 [1. Triangle](https://github.com/Ankit5125/Python_Codes/blob/main/Patterns/Pattern%201.py)
