@@ -79,6 +79,12 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [38. Your Details](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Your%20Details.py)
 
+[39. intrest](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Simple%20intrest.py)
+
+[40. Distance between 2 Points](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Distance%20btwn%202%20Points.py)
+
+[41. Middle Point Of Line](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Mid%20Point%20of%20a%20Line.py)
+
 
 # Patterns :
 
