@@ -91,6 +91,9 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [44. Sum using Recursion](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Sum%20Using%20Recursion.py)
 
+[45. FActorial using Recursion](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Factorial%20by%20Recursion.py)
+
+
 
 # Patterns :
 
