@@ -12,12 +12,13 @@ class nums():
         self.num2 = num2
 
     def check(self):
-        if isinstance(num1,int) and isinstance(num2,int):
-            return True
-        else :
-            return False
+        return isinstance(num1,int) and isinstance(num2,int)
+        
 num1 = int(input("Enter Number 1 : "))
 num2 = int(input("Enter Number 2 : "))
 
 cls = nums(num1,num2)
-print(cls.check())
+if cls.check():
+    print(num1 + num2)
+else :
+    print("Not Intgers")
