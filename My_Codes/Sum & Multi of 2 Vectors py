@@ -1,0 +1,31 @@
+class vector:
+    def __init__(self,i,j,k,a,b,c):
+        self.i1 = i
+        self.j1 = j
+        self.k1 = k
+        
+        self.i2 = a
+        self.j2 = b
+        self.k2 = c
+        
+    def printsum(self):
+        print(f"\n\nSum => ({self.i1}i + {self.j1}j + {self.k1}k) + ({self.i2}i + {self.j2}j + {self.k2}k) = ",end="")
+        print(f"{self.i1 + self.i2}i + {self.j1 + self.j2}j + {self.k1 + self.k2}k \n")
+        
+    def printmul(self):
+        i = self.i1 * self.i2
+        j = self.j1 * self.j2
+        k = self.k1 * self.k2
+        print("\n\nMultiplication : ", i + j + k)
+        
+i1 = int(input("Enter i1 : "))
+j1 = int(input("Enter j1 : "))
+k1 = int(input("Enter k1 : "))
+i2 = int(input("Enter i2 : "))
+j2 = int(input("Enter j2 : "))
+k2 = int(input("Enter k2 : "))
+
+v = vector(i1,j1,k1,i2,j2,k2)
+
+v.printsum()
+v.printmul()
