@@ -87,6 +87,8 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [42. Number is Less then All Number in List](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Number%20Smaller%20Than%20all%20nums.py)
 
+[43. is Path File or Directory](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/is%20Path%20a%20File%20or%20Directory.py)
+
 
 # Patterns :
 
