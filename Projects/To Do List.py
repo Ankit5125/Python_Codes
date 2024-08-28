@@ -1,33 +1,66 @@
 ls = dict()
-index = 0 
+index = 0
+
+
 
 def add(index):
     ask = input("\nEnter Task : ")
     ls[index] = ask
     index += 1
     return index
+
+def reindex():
+    temp = {}
+    i = 0
+    for key in ls:
+        temp[i] = ls[key]
+        i += 1
     
+    ls.clear()
+    ls.update(temp)
+
 def remove(index):
     i = int(input("\nEnter Index : "))
-    try :
+    try:
         ls.pop(i)
+        print("\nTask Removed Successfully....")
         index -= 1
-        print("\nTask Removed Succesfully....")
-    except:
+        reindex()
+        
+    except KeyError:
         print("\nPlease Enter Valid Index : ")
-        
+
     return index
-        
+    
+def mark():
+    
+    i = int(input("Enter Index : "))
+    
+    try:
+        ls[i] = ls[i] + " ✅ "
+    except:
+        print("Enter Valid Index")    
+
+    
+def edit():
+    geti = int(input("\nEnter Index You Want to Edit : "))
+    
+    try:
+        newinput = input("Enter new Task : ")
+        ls[geti] = newinput
+    except:
+        print("\nEnter Valid Index...\n")    
+
 def display():
     print()
-    for mykey,myval in dict.items():
-        print(f"{mykey} : {myval} ")
+    for key, val in ls.items():
+        print(f"{key} : {val}")
     print()
 
 print("-" * 50)
-        
-while True :
-    print("\nEnter Your Choice : \n1 -> Add\n2 -> Remove\n3 -> Edit\n4 -> Display\n0 -> Exit\n")
+
+while True:
+    print("\nEnter Your Choice : \n1 -> Add\n2 -> Remove\n3 -> Mark as Done ✅\n4 -> Edit\n5 -> Display\n0 -> Exit\n")
     
     choice = int(input("\nChoice :"))
     
@@ -38,14 +71,18 @@ while True :
         index = remove(index)
     
     elif choice == 3:
-        pass
-    
+        mark()
+        
     elif choice == 4:
-        index = display()
+        edit()
+    
+    elif choice == 5:
+        display()
         
     elif choice == 0:
         print("\n\nThank You...\n\n")
         exit() 
     
-    else :
-        print("\nEnter Valid Number...")   
+    else:
+        print("\nEnter Valid Number...")
+        
