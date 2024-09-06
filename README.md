@@ -107,6 +107,8 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [53. Sum / Multiplication of 2 Vectors](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Sum%20%26%20Multi%20of%202%20Vectors%20py)
 
+[54. Print All Yhe Prime Numbers in Given Range](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print%20Prime%20Numbers.py)
+
 
 # Patterns :
 
