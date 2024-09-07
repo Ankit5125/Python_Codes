@@ -111,6 +111,8 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [55. Print all The Armstrong Number in Given Range](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Print%20Armstrong%20Numbers.py)
 
+[56. Best Example of Class](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Gender%20by%20Class.py)
+
 
 
 # Patterns :
