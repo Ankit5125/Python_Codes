@@ -113,7 +113,7 @@ This Repository Includes all my Pyhton Codes and Projects
 
 [56. Best Example of Class](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Gender%20by%20Class.py)
 
-
+[57. Binary Search](https://github.com/Ankit5125/Python_Codes/blob/main/My_Codes/Binary%20Search.py)
 
 # Patterns :
 
